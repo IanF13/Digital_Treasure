@@ -2,15 +2,13 @@ body {
 background: whitesmoke
 }
 .titulo-principal{
-text-align: center;
+
+  text-align: center;
 
 }
 #banner{
-
   width: 100%;
 }
-
-
 
 h1{
   font-size: 45px;
@@ -38,6 +36,5 @@ h4{
 }
 
 .Suporte{
-
-  
+  font-size: 30px;
 }
